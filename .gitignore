@@ -1,0 +1,24 @@
+# Saída gerada (logs do servidor, screenshots de teste)
+/output/
+
+# Dependências
+/vendor/
+/node_modules/
+
+# Arquivos de ambiente
+.env
+.env.*
+
+# Logs
+*.log
+
+# Arquivos de sistema operacional
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Arquivos de editor/IDE
+.vscode/
+.idea/
+*.swp
+*~
